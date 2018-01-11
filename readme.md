@@ -4,7 +4,7 @@ python trick packages
 
 
 
-###[pdir2](https://github.com/laike9m/pdir2#pdir2-pretty-dir-printing-with-joy)
+### [pdir2](https://github.com/laike9m/pdir2#pdir2-pretty-dir-printing-with-joy)
 
 - Pretty dir()
 
